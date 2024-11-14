@@ -569,12 +569,12 @@
     "advancements.gobber2.gobber2_sword_sniper.title": "It's a Sword and A Bow!",
     "advancements.gobber2.gobber2_sword_sniper.desc": "Craft a Sword of the Sniper",
    
-    "tetra.material.gobber": "Gobber",
-    "tetra.material.gobber.prefix": "Gobber",
-    "tetra.material.gobber_nether": " 地獄 Gobber",
-    "tetra.material.gobber_nether.prefix": "地獄 Gobber",
-    "tetra.material.gobber_end": "終界 Gobber",
-    "tetra.material.gobber_end.prefix": "終界 Gobber",
+    "tetra.material.gobber": "戈伯",
+    "tetra.material.gobber.prefix": "戈伯",
+    "tetra.material.gobber_nether": " 地獄戈伯",
+    "tetra.material.gobber_nether.prefix": "地獄戈伯",
+    "tetra.material.gobber_end": "終界戈伯",
+    "tetra.material.gobber_end.prefix": "終界戈伯",
     
     "itemGroup.gobber2": "戈伯2"
 }
