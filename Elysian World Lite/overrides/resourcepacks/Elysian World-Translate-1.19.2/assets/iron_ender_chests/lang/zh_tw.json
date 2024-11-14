@@ -1,0 +1,16 @@
+{
+  "block.iron_ender_chests.iron_ender_chest": "鐵終界箱",
+  "block.iron_ender_chests.diamond_ender_chest": "鑽石終界箱",
+  "block.iron_ender_chests.netherite_ender_chest": "獄髓終界箱",
+  "block.iron_ender_chests.copper_ender_chest": "銅終界箱",
+  "block.iron_ender_chests.gold_ender_chest": "金終界箱",
+  "block.iron_ender_chests.emerald_ender_chest": "綠寶石終界箱",
+  "block.iron_ender_chests.redstone_ender_chest": "紅石終界箱",
+  "block.iron_ender_chests.lapis_ender_chest": "青金石終界箱",
+  "tooltip.iron_ender_chests.four_rows": "四排",
+  "tooltip.iron_ender_chests.five_rows": "五排",
+  "tooltip.iron_ender_chests.six_rows": "六排",
+  "tooltip.iron_ender_chests.fire_resistant": "抗火",
+  "itemGroup.iron_ender_chests.iron_ender_chests": "鐵終界箱",
+  "itemGroup.iron_ender_chests": "鐵終界箱"
+}
