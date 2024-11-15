@@ -18,7 +18,7 @@
   "gui.easy_villagers.inventory_viewer": "物品檢視器",
   "gui.easy_villagers.villager_inventory": "村民物品欄",
   "gui.easy_villagers.villager_equipment": "村民裝備",
-  "itemGroup.easy_villagers": "Easy Villagers",
+  "itemGroup.easy_villagers": "簡易村民交易",
   "tooltip.easy_villagers.villager_profession": "%s (%s)",
   "tooltip.easy_villagers.zombie_villager_profession": "%s (%s)",
   "tooltip.easy_villagers.cycle_trades": "交易更新",
